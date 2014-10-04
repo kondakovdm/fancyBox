@@ -1,5 +1,6 @@
 fancyBox
 ========
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/kondakovdm/fancyBox?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 fancyBox is a tool that offers a nice and elegant way to add zooming functionality for images, html content and multi-media on your webpages.
 
